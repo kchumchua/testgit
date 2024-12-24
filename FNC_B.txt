@@ -6,4 +6,4 @@ FNC_A_BBB : addd BBBBBB
 11111111111111111111
 //-------------------
 TTTTTTTTTTTTTTTTTTTTT
-//-------------------
+//-------------------Add from egit_p2
