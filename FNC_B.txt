@@ -8,5 +8,9 @@ FNC_A_BBB : addd BBBBBB
 //-------------------
 TTTTTTTTTTTTTTTTTTTTT
 -------->ConflictB 2----------
+-------->ConflictX 1----------
+//-------------------
+TTTTTTTTTTTTTTTTTTTTT
+-------->ConflictX 2----------
 //-------------------Add from egit_p2
 555555555555555555555555555
